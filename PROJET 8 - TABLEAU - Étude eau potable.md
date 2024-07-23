@@ -8,7 +8,7 @@
 
 ## Mise en situation - Objectifs
 Data Analyst en mission dans l'ONG Drinking Water For All, elle a pour ambition de donner accès à l'eau potable à tout le monde. 
-Elle a 3 domaines d'expertise : 
+Elle a 3 domaines d'expertise :  
 - Création de service d'accès à l'eau potable
 - Modernisation de services d'accès à l'eau déjà existants
 - Consulting aurpès d'administrations / gouvernements à propos des politiques d'accès à l'eau
